@@ -10,7 +10,7 @@ Use the node package manager [npm](https://nodejs.org/en/) to install the Progre
 
 ```bash
 npm install
-``
+```
 
 ## Usage
 
