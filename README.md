@@ -14,6 +14,8 @@ npm install
 
 ## Usage
 
+have a MongoDB server running
+
 ```node.js
 npm start
 ```
