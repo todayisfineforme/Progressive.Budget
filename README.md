@@ -1,6 +1,8 @@
 # Progressive Budget App
 
-A Frontend application that utilizes express and mongoose to present the user with a budget display.
+A Frontend application that utilizes express and mongoose to present the user with a budget display that they can then add to and subtract from over time. 
+
+graph displays relative change over time.
 
 ## Installation
 
