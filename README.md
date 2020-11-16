@@ -1,6 +1,6 @@
 # Progressive Budget App
 
-Foobar is a Python library for dealing with word pluralization.
+A Frontend application that utilizes express and mongoose to present the user with a budget display.
 
 ## Installation
 
