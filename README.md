@@ -1,4 +1,4 @@
-# homework.progressive.budget.nathan.hall
+# Progressive Budget App
 
 Foobar is a Python library for dealing with word pluralization.
 
