@@ -9,8 +9,8 @@ graph displays relative change over time.
 Use the node package manager [npm](https://nodejs.org/en/) to install the Progressive Budget App.
 
 ```bash
-npm install foobar
-```
+npm install
+``
 
 ## Usage
 
