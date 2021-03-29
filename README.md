@@ -4,6 +4,8 @@ A Frontend application that utilizes express and mongoose to present the user wi
 
 graph displays relative change over time.
 
+![tracker screenshot](./demo/demo_sc.jpg)
+
 ## Installation
 
 Use the node package manager [npm](https://nodejs.org/en/) to install the Progressive Budget App.
